@@ -1,0 +1,17 @@
+# 截图产物
+shots/
+
+# Node（本仓库零依赖，但以防万一）
+node_modules/
+package-lock.json
+
+# 编辑器和系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.log
+*.tmp
